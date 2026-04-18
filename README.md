@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Data Sources & Methodology
 
 ### Data Sources
@@ -24,3 +25,7 @@
 1. Run `main.py` to generate processed data
 2. Run `streamlit run dashboard.py` to view interactive dashboard
 3. Check `output/` for static plots and HTML files
+=======
+# f1-telemetry-analytics
+Interactive dashboard analyzing Formula 1 Miami Grand Prix tire strategy and winner telemetry (2023-2025)
+>>>>>>> adb60a148f9c46d3c641b2d38bb01d751f112dab
