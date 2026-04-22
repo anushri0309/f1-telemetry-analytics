@@ -1,7 +1,7 @@
 streamlit>=1.32.2
 plotly
 pandas
-numpy
-fastf1
+numpy<2.0
+fastf1==3.8.2
 matplotlib
 seaborn
