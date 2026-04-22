@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Data Sources & Methodology
 
 ### Data Sources
